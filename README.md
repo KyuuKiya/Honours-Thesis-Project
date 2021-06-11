@@ -23,4 +23,4 @@ NOTE: You do not need all dependencies with the exactly same versions to run the
 * IoU Calculation: Implementation of the IoU score calculation process to evaluate the generated segmentation
 * UNet: Self implementation of 3D U-Net specific to this project based on Keras
 * VNet: Self implementation of V-Net specific to this project based on Keras
-* Train: The code used to load the dataset and train the model
+* Train: Code used to load the dataset and train the model
