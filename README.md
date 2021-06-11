@@ -14,7 +14,7 @@ This repository includes all related codes in the honours thesis titled "Volumet
 * Keras == 2.4.3
 * tensorflow == 2.2.0
 
-NOTE: It is not necessary to need all dependencies to run the code. 
+NOTE: You do not need all dependencies with same versions to run the code. 
 
 ## Description
 
